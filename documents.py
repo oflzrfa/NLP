@@ -6,14 +6,18 @@ import nltk
 def extract_text(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content.decode('utf-8'), "html.parser")
-    return soup.get_text()
+    text1 = ''
+    for paragraph in soup.find_all('p'):
+        text1 += paragraph.text
+    return (text1)
 
 # Tokenize the text into sentences
-def extract_sentences(text):
-    sentences = nltk.sent_tokenize(text)
+def extract_sentences(text1):
+    sentences = nltk.sent_tokenize(text1)
     return sentences[:50]
 #extract 100 sentences from each
-urls = [
+
+urls =[
     "https://en.wikipedia.org/wiki/History_of_medicine",
     "https://en.wikipedia.org/wiki/Medical_racism_in_the_United_States",
     "https://en.wikipedia.org/wiki/U.S._Immigration_and_Customs_Enforcement",
