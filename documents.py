@@ -17,7 +17,7 @@ def extract_text(url):
     return (text)
 
 # Tokenize the text into sentences
-def extract_sentences(text1):
+def extract_sentences(text):
     sentences = nltk.sent_tokenize(text)
     return sentences[:50]
 #extract 100 sentences from each
