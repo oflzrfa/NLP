@@ -1,19 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
 import nltk
+import re
+import os
+import shutil
 
 # Download the web page and extract the raw text content
 def extract_text(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content.decode('utf-8'), "html.parser")
-    text1 = ''
+    text = ''
     for paragraph in soup.find_all('p'):
-        text1 += paragraph.text
-    return (text1)
+        text += paragraph.text
+    text = re.sub(r'\[\d+\]', ' ', text)
+    text = text.replace('\n', '')
+    return (text)
 
 # Tokenize the text into sentences
 def extract_sentences(text1):
-    sentences = nltk.sent_tokenize(text1)
+    sentences = nltk.sent_tokenize(text)
     return sentences[:50]
 #extract 100 sentences from each
 
@@ -80,8 +85,13 @@ urls =[
     "https://en.wikipedia.org/wiki/Napoleon_Bonaparte"
     ]
 
-#print in console url and text from the url
 
+# Folder that stores all retrieved documents
+documents_folder = "documents"
+if not os.path.exists(documents_folder):
+    os.mkdir(documents_folder)
+
+documentsfolder = []
 for i, url in enumerate(urls):
     
     text = extract_text(url) 
@@ -90,9 +100,18 @@ for i, url in enumerate(urls):
     print(extract_sentences(text))
 
     # Save the subdocuments to files
-    filename = f"text_{i+1}.txt"
-    with open(filename, "w", encoding="utf-8") as file:
+    filename = f"text_{i+1}.txt" 
+    doc_path = os.path.join(documents_folder, filename)
+    #with open(filename, "w", encoding="utf-8") as file:  
+    with open(doc_path, "w", encoding="utf-8") as file:  
         file.write(text)
+        documentsfolder.append(doc_path)
+
+#export retrieved documents folder to local file  
+local_folder = r"C:\Users\refij\OneDrive\Dokumenti\GitHub\NLP"
+shutil.copytree(documents_folder, os.path.join(local_folder, documents_folder))
+   
+        
 
 
     
