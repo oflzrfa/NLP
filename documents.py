@@ -4,8 +4,9 @@ import nltk
 import re
 import os
 import shutil
+import random
 
-# Download the web page and extract the raw text content
+# Download the web page and extract the raw text content, remove references
 def extract_text(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content.decode('utf-8'), "html.parser")
@@ -16,12 +17,14 @@ def extract_text(url):
     text = text.replace('\n', '')
     return (text)
 
-# Tokenize the text into sentences
+# Tokenize the text into sentences, write each sentence in a new row
 def extract_sentences(text):
+    #sentences = nltk.sent_tokenize(text)
+    #return sentences[:50]
     sentences = nltk.sent_tokenize(text)
-    return sentences[:50]
-#extract 100 sentences from each
+    return [sentence + "\n" for sentence in sentences[:50]]
 
+#extract 50 sentences from each
 urls =[
     "https://en.wikipedia.org/wiki/History_of_medicine",
     "https://en.wikipedia.org/wiki/Medical_racism_in_the_United_States",
@@ -104,12 +107,14 @@ for i, url in enumerate(urls):
     doc_path = os.path.join(documents_folder, filename)
     #with open(filename, "w", encoding="utf-8") as file:  
     with open(doc_path, "w", encoding="utf-8") as file:  
-        file.write(text)
+        #file.write(text)
+        file.write("".join(sentences))
         documentsfolder.append(doc_path)
 
 #export retrieved documents folder to local file  
 local_folder = r"C:\Users\refij\OneDrive\Dokumenti\GitHub\NLP"
 shutil.copytree(documents_folder, os.path.join(local_folder, documents_folder))
+
    
         
 
