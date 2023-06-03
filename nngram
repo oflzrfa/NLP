@@ -1,0 +1,68 @@
+import nltk
+import os
+import datetime
+import shutil
+import random
+
+
+# Update the file path to the directory containing the documents
+documents_folder = 'C:/Users/refij/OneDrive/Dokumenti/GitHub/NLP/documents/'
+
+# Get a list of files in the directory
+text_file_list = os.listdir(documents_folder)
+
+# Select 20 random text files from the list
+text_files = [file_name for file_name in text_file_list if file_name.endswith('.txt')]
+selected_files = random.sample(text_files, 20)
+
+# Set the value of n for n-grams
+n = 5
+
+# Create a new folder to store the generated text files
+output_folder = 'ngram_text_files'
+os.makedirs(output_folder, exist_ok=True)
+
+# Generate n-gram text files
+for file_name in selected_files:
+
+    file_path = os.path.join(documents_folder, file_name)
+    with open(file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    # Remove non-alphabetic and non-whitespace characters
+    clean_text = ''.join(filter(lambda c: c.isalpha() or c.isspace(), text.lower()))
+
+    # Tokenize the text
+    tokens = nltk.word_tokenize(clean_text)
+
+    # Create n-grams
+    ngrams = list(nltk.ngrams(tokens, n))
+
+    # Create a dictionary of n-gram frequencies
+    freq_dict = {}
+    for gram in ngrams:
+        key = ' '.join(gram[:-1])
+        if key not in freq_dict:
+            freq_dict[key] = []
+        freq_dict[key].append(gram[-1])
+
+    # Generate n-gram sentences
+    generated_sentences = []
+    for _ in range(50):
+        generated_text = ''
+        start = ' '.join(random.choice(ngrams)[:-1])
+        for _ in range(13):
+            if start not in freq_dict:
+                break
+            next_word = random.choice(freq_dict[start])
+            generated_text += next_word + ' '
+            start = ' '.join(start.split()[1:]) + ' ' + next_word
+        #generated_sentences.append(generated_text.capitalize() + '.')
+        generated_sentences.append(generated_text.strip().capitalize() + '.')
+
+    # Create a new text file for the generated sentences
+    output_filename = f"{file_name}"
+    output_path = os.path.join(output_folder, output_filename)
+    with open(output_path, 'w', encoding='utf-8') as output_file:
+        for sentence in generated_sentences:
+            output_file.write(sentence + '\n')
