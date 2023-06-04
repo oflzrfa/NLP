@@ -89,7 +89,6 @@ urls =[
     ]
 
 
-# Folder that stores all retrieved documents
 documents_folder = "documents"
 if not os.path.exists(documents_folder):
     os.mkdir(documents_folder)
@@ -102,7 +101,6 @@ for i, url in enumerate(urls):
     print(f"Extracted {len(sentences)} sentences from {url}")
     print(extract_sentences(text))
 
-    # Save the subdocuments to files
     filename = f"text_{i+1}.txt" 
     doc_path = os.path.join(documents_folder, filename)
     #with open(filename, "w", encoding="utf-8") as file:  
