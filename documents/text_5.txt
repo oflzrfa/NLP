@@ -1,5 +1,6 @@
-The Drug Enforcement Administration (DEA; /diː.iːˈeɪ/) is a United States federal law enforcement agency under the U.S. Department of Justice tasked with combating drug trafficking and distribution within the U.S.
-It is the lead agency for domestic enforcement of the Controlled Substances Act, sharing concurrent jurisdiction with the Federal Bureau of Investigation, the U.S. Immigration and Customs Enforcement, and U.S. Customs and Border Protection although the DEA has sole responsibility for coordinating and pursuing U.S. drug investigations both domestically and abroad.
+The Drug Enforcement Administration (DEA; /diː.iːˈeɪ/) is a United States federal law enforcement agency under the U.S. Department of Justice tasked with combating illicit drug trafficking and distribution within the U.S.
+It is the lead agency for domestic enforcement of the Controlled Substances Act, sharing concurrent jurisdiction with the Federal Bureau of Investigation, the U.S. Immigration and Customs Enforcement, and U.S. Customs and Border Protection.
+However, the DEA has sole responsibility for coordinating and pursuing U.S. drug investigations both domestically and abroad.
 It was established in 1973 as part of the U.S. government's War on Drugs.
 The DEA has an intelligence unit that is also a member of the U.S. Intelligence Community.
 While the unit is part of the DEA chain-of-command, it also reports to the Director of National Intelligence.
@@ -47,4 +48,3 @@ Covertly located throughout the nation, DEA SRT teams are available to respond t
 The DEA SRT has been involved in several high-profile operations in recent years, however, DEA involvement is often not publicized due to operational and intelligence considerations.
 Considered one of the most covert outfits in federal law enforcement, very little is known about DEA SRT capabilities and its operator selection process.In the past, DEA had other tactical teams like the High-risk Entry Apprehension Teams (HEAT) in some Field Divisions, and Operation Snowcap Teams (predecessor of FAST).
 The teams administered by the Mobile Enforcement Section, the Mobile Enforcement Teams (MET), and Regional Enforcement Teams (RET), were mobile investigative units intended to deploy resources to state and local agencies (MET) or DEA Field Divisions (RET) in need of assistance with a particular investigation or trafficking group.
-These programs ended in the early 2000s.The DEA Special Operations Division (SOD) is a division within the DEA, which forwards information from wiretaps, intercepts, and databases from various sources to federal agents and local law enforcement officials.

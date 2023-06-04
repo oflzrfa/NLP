@@ -1,4 +1,4 @@
-Leonardo di ser Piero da Vinci[b] (15 April 1452 – 2 May 1519) was an Italian Renaissance polymath who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect.
+Leonardo di ser Piero da Vinci[b] (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect.
 While his fame initially rested on his achievements as a painter, he also became known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and paleontology.
 Leonardo is widely regarded to have been a genius who epitomized the Renaissance humanist ideal,  and his collective works comprise a contribution to later generations of artists matched only by that of his younger contemporary, Michelangelo.
 Born out of wedlock to a successful notary and a lower-class woman in, or near, Vinci, he was educated in Florence by the Italian painter and sculptor Andrea del Verrocchio.
@@ -6,7 +6,7 @@ He began his career in the city, but then spent much time in the service of Ludo
 Later, he worked in Florence and Milan again, as well as briefly in Rome, all while attracting a large following of imitators and students.
 Upon the invitation of Francis I, he spent his last three years in France, where he died in 1519.
 Since his death, there has not been a time where his achievements, diverse interests, personal life, and empirical thinking have failed to incite interest and admiration,   making him a frequent namesake and subject in culture.
-[vague]Leonardo is identified as one of the greatest painters in the history of art and is often credited as the founder of the High Renaissance.
+Leonardo is identified as one of the greatest painters in the history of art and is often credited as the founder of the High Renaissance.
 Despite having many lost works and fewer than 25 attributed major works—including numerous unfinished works—he created some of the most influential paintings in Western art.
 His magnum opus, the Mona Lisa, is his best known work and often regarded as the world's most famous painting.
 The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also regarded as a cultural icon.
@@ -18,11 +18,10 @@ Leonardo da Vinci,[b] properly named Leonardo di ser Piero da Vinci (Leonardo, s
 [d] He was born out of wedlock to Piero da Vinci (Ser Piero da Vinci d'Antonio di ser Piero di ser Guido; 1426–1504),  a Florentine legal notary,  and Caterina di Meo Lippi (c. 1434 – 1494), from the lower-class.
 [e] It remains uncertain where Leonardo was born; the traditional account, from a local oral tradition recorded by the historian Emanuele Repetti,  is that he was born in Anchiano, a country hamlet that would have offered sufficient privacy for the illegitimate birth, though it is still possible he was born in a house in Florence that Ser Piero almost certainly had.
 [a] Leonardo's parents both married separately the year after his birth.
-Caterina—who later appears in Leonardo's notes as only "Caterina" or "Catelina"—is usually identified as the Caterina Buti del Vacca who married the local artisan Antonio di Piero Buti del Vacca, nicknamed "L'Accattabriga" ("the quarrelsome one").
-Other theories have been proposed, particularly that of art historian Martin Kemp, who suggested Caterina di Meo Lippi, an orphan who married purportedly with aid from Ser Piero and his family.
-[f] Ser Piero married Albiera Amadori—having been betrothed to her the previous year—and after her death in 1464, went on to have three subsequent marriages.
-[g] From all the marriages, Leonardo eventually had 16 half-siblings (of whom 11 survived infancy)  who were much younger than he (the last was born when Leonardo was 46 years old)  and with whom he had very little contact.
-[h]Very little is known about Leonardo's childhood and much is shrouded in myth, partially because of his biography in the frequently apocryphal Lives of the Most Excellent Painters, Sculptors, and Architects (1550) by the 16th-century art historian Giorgio Vasari.
+Caterina—who later appears in Leonardo's notes as only "Caterina" or "Catelina"—is usually identified as the Caterina Buti del Vacca who married the local artisan Antonio di Piero Buti del Vacca, nicknamed "L'Accattabriga", '"the quarrelsome one"'.
+Ser Piero married Albiera Amadori—having been betrothed to her the previous year—and after her death in 1464, went on to have three subsequent marriages.
+[f] From all the marriages, Leonardo eventually had 16 half-siblings (of whom 11 survived infancy)  who were much younger than he (the last was born when Leonardo was 46 years old)  and with whom he had very little contact.
+[g]Very little is known about Leonardo's childhood and much is shrouded in myth, partially because of his biography in the frequently apocryphal Lives of the Most Excellent Painters, Sculptors, and Architects (1550) by the 16th-century art historian Giorgio Vasari.
 Tax records indicate that by at least 1457 he lived in the household of his paternal grandfather, Antonio da Vinci,  but it is possible that he spent the years before then in the care of his mother in Vinci, either Anchiano or Campo Zeppi in the parish of San Pantaleone.
 He is thought to have been close to his uncle, Francesco da Vinci,  but his father was probably in Florence most of the time.
 Ser Piero, who was the descendant of a long line of notaries, established an official residence in Florence by at least 1469 and had a successful career.
@@ -32,10 +31,10 @@ While writing on the flight of birds, he recalled as an infant when a kite came 
 In the mid-1460s, Leonardo's family moved to Florence, which at the time was the centre of Christian Humanist thought and culture.
 Around the age of 14,  he became a garzone (studio boy) in the workshop of Andrea del Verrocchio, who was the leading Florentine painter and sculptor of his time.
 This was about the time of the death of Verrocchio's master, the great sculptor Donatello.
-[i] Leonardo became an apprentice by the age of 17 and remained in training for seven years.
+[h] Leonardo became an apprentice by the age of 17 and remained in training for seven years.
 Other famous painters apprenticed in the workshop or associated with it include Ghirlandaio, Perugino, Botticelli, and Lorenzo di Credi.
 Leonardo was exposed to both theoretical training and a wide range of technical skills,  including drafting, chemistry, metallurgy, metal working, plaster casting, leather working, mechanics, and woodwork, as well as the artistic skills of drawing, painting, sculpting, and modelling.
-[j]Leonardo was a contemporary of Botticelli, Ghirlandaio and Perugino, who were all slightly older than he was.
+[i]Leonardo was a contemporary of Botticelli, Ghirlandaio and Perugino, who were all slightly older than he was.
 He would have met them at the workshop of Verrocchio or at the Platonic Academy of the Medici.
 Florence was ornamented by the works of artists such as Donatello's contemporaries Masaccio, whose figurative frescoes were imbued with realism and emotion, and Ghiberti, whose Gates of Paradise, gleaming with gold leaf, displayed the art of combining complex figure compositions with detailed architectural backgrounds.
 Piero della Francesca had made a detailed study of perspective,  and was the first painter to make a scientific study of light.
@@ -46,5 +45,6 @@ Close examination reveals areas of the work that have been painted or touched-up
 Leonardo may have been the model for two works by Verrocchio: the bronze statue of David in the Bargello, and the Archangel Raphael in Tobias and the Angel.
 Vasari tells a story of Leonardo as a very young man: a local peasant made himself a round shield and requested that Ser Piero have it painted for him.
 Leonardo, inspired by the story of Medusa, responded with a painting of a monster spitting fire that was so terrifying that his father bought a different shield to give to the peasant and sold Leonardo's to a Florentine art dealer for 100 ducats, who in turn sold it to the Duke of Milan.
-[‡ 2]By 1472, at the age of 20, Leonardo qualified as a master in the Guild of Saint Luke, the guild of artists and doctors of medicine,[k] but even after his father set him up in his own workshop, his attachment to Verrocchio was such that he continued to collaborate and live with him.
-Leonardo's earliest known dated work is a 1473 pen-and-ink drawing of the Arno valley.
+[‡ 2]By 1472, at the age of 20, Leonardo qualified as a master in the Guild of Saint Luke, the guild of artists and doctors of medicine,[j] but even after his father set him up in his own workshop, his attachment to Verrocchio was such that he continued to collaborate and live with him.
+Leonardo's earliest known dated work is a 1473 pen-and-ink drawing of the Arno valley (see below).
+[k] According to Vasari, the young Leonardo was the first to suggest making the Arno river a navigable channel between Florence and Pisa.

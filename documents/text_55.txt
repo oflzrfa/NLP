@@ -1,18 +1,17 @@
-365,000+ total dead 290,000+ total deadThe American Civil War (April 12, 1861 – May 26, 1865; also known by other names) was a civil war in the United States.
+Union victory365,000+ total dead 290,000+ total deadThe American Civil War (April 12, 1861 – May 26, 1865; also known by other names) was a civil war in the United States.
 It was fought between the Union[f] ("the North") and the Confederacy ("the South"), the latter formed by states that had seceded.
 The central cause of the war was the dispute over whether slavery would be permitted to expand into the western territories, leading to more slave states, or be prevented from doing so, which was widely believed would place slavery on a course of ultimate extinction.Decades of political controversy over slavery were brought to a head by the victory in the 1860 U.S. presidential election of Abraham Lincoln, who opposed slavery's expansion into the western territories.
 An initial seven southern slave states responded to Lincoln's victory by seceding from the United States and, in February 1861, forming the Confederacy.
 The Confederacy seized U.S. forts and other federal assets within their borders.
 Led by Confederate President Jefferson Davis, the Confederacy asserted control over about a third of the U.S. population in eleven of the 34 U.S. states that then existed.
 Four years of intense combat, mostly in the South, ensued.During 1861–1862 in the war's Western Theater, the Union made significant permanent gains—though in the war's Eastern Theater the conflict was inconclusive.
-The abolition of slavery became a war goal on January 1, 1863, when Lincoln issued the Emancipation Proclamation, which declared all slaves in states in rebellion to be free, applying to more than 3.5 million of the 4 million enslaved people in the country.
-Former slaves who escaped from plantations or were liberated by the Union Army were recruited into the United States Colored Troops regiments of the Union Army.
-To the west, the Union destroyed the Confederate's river navy by the summer of 1862, then much of its western armies, and seized New Orleans.
+The abolition of slavery became a Union war goal on January 1, 1863, when Lincoln issued the Emancipation Proclamation, which declared all slaves in states in rebellion to be free, applying to more than 3.5 million of the 4 million enslaved people in the country.
+To the west, the Union destroyed the Confederacy's river navy by the summer of 1862, then much of its western armies, and seized New Orleans.
 The successful 1863 Union siege of Vicksburg split the Confederacy in two at the Mississippi River.
 In 1863, Confederate General Robert E. Lee's incursion north ended at the Battle of Gettysburg.
 Western successes led to General Ulysses S. Grant's command of all Union armies in 1864.
 Inflicting an ever-tightening naval blockade of Confederate ports, the Union marshaled resources and manpower to attack the Confederacy from all directions.
-This led to the fall of Atlanta in 1864 to Union General William Tecumseh Sherman, followed by his march to the sea.
+This led to the fall of Atlanta in 1864 to Union General William Tecumseh Sherman, followed by his March to the Sea.
 The last significant battles raged around the ten-month Siege of Petersburg, gateway to the Confederate capital of Richmond.
 The Confederates abandoned Richmond, and on April 9, 1865, Lee surrendered to Grant following the Battle of Appomattox Court House, setting in motion the end of the war.A wave of Confederate surrenders followed.
 On April 14, just five days after Lee's surrender, Lincoln was assassinated.
@@ -48,3 +47,4 @@ Opponents of slavery considered slavery an anachronistic evil incompatible with 
 The strategy of the anti-slavery forces was containment—to stop the expansion of slavery and thereby put it on a path to ultimate extinction.
 The slaveholding interests in the South denounced this strategy as infringing upon their constitutional rights.
 Southern whites believed that the emancipation of slaves would destroy the South's economy, because of the large amount of capital invested in slaves and fears of integrating the ex-slave black population.
+In particular, many Southerners feared a repeat of the 1804 Haiti massacre (referred to at the time as "the horrors of Santo Domingo"),   in which former slaves systematically murdered most of what was left of the country's white population—including men, women, children, and even many sympathetic to abolition—after the successful slave revolt in Haiti.

@@ -4,25 +4,18 @@ Its causes are generally agreed to be a combination of social, political and eco
 In May 1789, widespread social distress led to the convocation of the Estates General, which was converted into a National Assembly in June.
 Continuing unrest culminated in the Storming of the Bastille on 14 July, which led to a series of radical measures by the Assembly, including the abolition of feudalism, the imposition of state control over the Catholic Church in France, and extension of the right to vote.The next three years were dominated by the struggle for political control, exacerbated by economic depression and civil disorder.
 Austria, Britain, Prussia and other external powers sought to restore the Ancien Régime by force, while many French politicians saw war as the best way to unite the nation and preserve the revolution by exporting it to other countries.
-These factors resulted in the outbreak of the French Revolutionary Wars in April 1792, abolition of the French monarchy and proclamation of the French First Republic in September 1792, followed by the execution of Louis XVI in January 1793.The Paris-based Insurrection of 31 May – 2 June 1793 replaced the Girondins who dominated the National Assembly with the Committee of Public Safety, headed by Maximilien Robespierre.
-Attempts to eliminate his opponents sparked the Reign of Terror, with an estimated 16,000 killed by the time it ended in July 1794.
-As well as external enemies, the Republic faced internal opposition from both Royalists and Jacobins and in order to deal with these threats, the French Directory took power in November 1795.
+These factors resulted in the outbreak of the French Revolutionary Wars in April 1792, abolition of the French monarchy and proclamation of the French First Republic in September 1792, followed by the execution of Louis XVI in January 1793.Following the Paris-based Insurrection of 31 May – 2 June 1793 the constitution was suspended and effective political power passed from the National Convention to the more radical Committee of Public Safety.
+An estimated 16,000 "counter-revolutionaries" were executed during the subsequent Reign of Terror, which ended with the so-called Thermidorian Reaction in July 1794.
+As well as external threats, the Republic faced internal opposition from royalists and popular unrest.
+In order to deal with these, a new, less democratic, constitution established a five-man Directory which took power in November 1795.
 Despite a series of military victories, many won by Napoleon Bonaparte, political divisions and economic stagnation resulted in the Directory being replaced by the Consulate in November 1799.
 This is generally seen as marking the end of the Revolutionary period.The underlying causes of the French Revolution are usually attributed to the Ancien Régime's failure to manage social and economic inequality.
 Rapid population growth and the inability to adequately finance government debt resulted in economic depression, unemployment and high food prices.
 Combined with a regressive tax system and resistance to reform by the ruling elite, it resulted in a crisis Louis XVI proved unable to manage.
-At the same time, discussion of these issues and political dissent had become part of wider European society, rather than confined to a small elite.
-This took different forms, such as 'English coffeehouse culture', and extended to areas colonised by Europeans, particularly British North America.
-Contacts between diverse groups in Edinburgh, Geneva, Boston, Amsterdam, Paris, London, or Vienna were much greater than often appreciated.
-Transnational elites who shared ideas and styles were not new; what changed was their extent and the numbers involved.
-Under King Louis XIV, the court at Versailles was the centre of culture, fashion and political power.
-Improvements in education and literacy over the course of the 18th century meant larger audiences for newspapers and journals, with Masonic lodges, coffee houses and reading clubs providing areas where people could debate and discuss ideas.
-The emergence of this "public sphere" led to Paris replacing Versailles as the cultural and intellectual centre, leaving the Court isolated and less able to influence opinion.
-In addition to these social changes, the French population grew from 18 million in 1700 to 26 million in 1789, making it the most populous state in Europe; Paris had over 600,000 inhabitants, of whom roughly one third were either unemployed or had no regular work.
-Inefficient agricultural methods meant domestic farmers struggled to grow enough food to support these numbers and primitive transportation networks made it hard to distribute what they did produce.
-As a consequence of this imbalance, food prices rose by 65% between 1770 and 1790 but wages increased by only 22%.
-Such shortages were damaging for the regime, since many blamed price increases on government failure to prevent profiteering.
-Poor harvests throughout the 1780s, culminating in the most severe winter for decades in 1788/1789, created a rural peasantry with nothing to sell, and an urban proletariat whose purchasing power had collapsed.
+Between 1700 and 1789, the French population grew from 18 million to 26 million, while Paris alone had over 600,000 inhabitants, of whom roughly one third had no regular work.
+Antiquated farming methods and transportation networks failed to keep up with these numbers.
+This meant that although wages increased by 22% between 1770 and 1790, food prices rose by 65%,  which many blamed on government failure to prevent profiteering.
+By 1789, a series of poor harvests and severe weather conditions had created a rural peasantry with nothing to sell, and an urban proletariat whose purchasing power had collapsed.
 The other major drag on the economy was state debt.
 Traditional views of the French Revolution often attribute the financial crisis to the costs of the 1778–1783 Anglo-French War, but modern economic studies show this is only a partial explanation.
 In 1788, the ratio of debt to gross national income in France was 55.6%, compared to 181.8% in Britain, and although French borrowing costs were higher, the percentage of revenue devoted to interest payments was roughly the same in both countries.
@@ -32,7 +25,7 @@ Rates varied widely from one region to another, often bore little or no relation
 It was the complexity as much as the financial burden that caused resentment; complaints from the nobility were not affected by paying significantly less than other classes.
 Attempts to make the system more transparent were blocked by the regional Parlements which controlled financial policy.
 The resulting impasse in the face of widespread economic distress led to the calling of the Estates-General, which became radicalised by the struggle for control of public finances.
-Although not indifferent to the crisis and willing to consider reforms, Louis XVI often backed down when faced with opposition from conservative elements within the nobility.
+Although willing to consider reforms, Louis XVI often backed down when faced with opposition from conservative elements within the nobility.
 As a result, the court became the target of popular anger, particularly Queen Marie-Antoinette, who was viewed as a spendthrift Austrian spy, and blamed for the dismissal of 'progressive' ministers like Jacques Necker.
 For their opponents, Enlightenment ideas on equality and democracy provided an intellectual framework for dealing with these issues, while the American Revolution was seen as confirmation of their practical application.
 The French state faced a series of budgetary crises during the 18th century, caused primarily by structural deficiencies rather than lack of resources.
@@ -47,4 +40,11 @@ He was able to fund the war through loans rather than taxes, but his dire warnin
 Continued French intervention in America and the associated 1778 to 1783 Anglo-French War could only be funded by issuing substantial quantities of new state debt.
 This created a large rentier class who lived on the interest, primarily members of the French nobility or commercial classes.
 By 1785, the government was struggling to cover these payments; since defaulting on the debt would negatively impact much of French society, the only other option was to increase taxes.
-When the parlements refused to collect them, Calonne persuaded Louis to summon the Assembly of Notables, an advisory council dominated by the upper nobility.
+When the parlements refused to collect them, Calonne persuaded Louis to summon the Assembly of Notables, an advisory council dominated by the upper nobility, which met in February 1787.
+Led by de Brienne, a former archbishop of Toulouse,[a] the Assembly also refused to approve new taxes, arguing this could only be done by the Estates.
+De Brienne, who succeeded Calonne in May 1787, tried to address the budgetary impasse without raising taxes by devaluing the coinage instead; the result was runaway inflation, worsening the plight of the farmers and urban poor.
+By 1788, total state debt had increased to an unprecedented 4.5 billion livres.
+In a last attempt to resolve the crisis, Necker returned as Finance Minister in August 1788 but was unable to reach an agreement on how to increase revenue.
+In May 1789, Louis summoned the Estates-General for the first time in over a hundred and fifty years.
+The Estates-General was divided into three parts: the First for members of the clergy; Second for the nobility; and Third for the "commons".
+Each sat separately, enabling the First and Second Estates to outvote the Third, despite representing less than 5% of the population, while both were largely exempt from tax.

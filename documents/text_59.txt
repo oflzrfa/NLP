@@ -1,4 +1,4 @@
-Caused the war:On the Greek side:On the Trojan side:The Iliad (/ˈɪliəd/;  Ancient Greek: Ἰλιάς, romanized: Iliás, Attic Greek: [iː.li.ás]; "a poem about Ilium") is one of two major ancient Greek epic poems attributed to Homer.
+On the Greek side:On the Trojan side:The Iliad (/ˈɪliəd/;  Ancient Greek: Ἰλιάς, romanized: Iliás, Attic Greek: [iː.li.ás]; "a poem about Ilium (Troy)") is one of two major ancient Greek epic poems attributed to Homer.
 It is one of the oldest extant works of literature still widely read by modern audiences.
 As with the Odyssey, the poem is divided into 24 books and was written in dactylic hexameter.
 It contains 15,693 lines in its most widely accepted version.
@@ -41,7 +41,7 @@ Paris, either through seduction or by force, stole Helen away from Menelaus' hom
 Menelaus and Paris agree to duel; Helen will marry the victor.
 However, when Paris is beaten, Aphrodite rescues him and leads him to bed with Helen before Menelaus can kill him.
 (4) The gods deliberate over whether the war should end here, but Hera convinces Zeus to wait for the utter destruction of Troy.
-Athena prompts the Trojan archer Pandaros to shoot Menelaus.
+Athena prompts the Trojan archer Pandarus to shoot Menelaus.
 Menelaus is wounded, and the truce is broken.
 Fighting breaks out, and many minor Trojans are killed.
 (5) In the fighting, Diomedes kills many Trojans, including Pandaros, and defeats Aeneas.

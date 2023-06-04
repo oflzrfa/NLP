@@ -8,7 +8,8 @@ It has landed on the American Library Association list of top 100 banned and cha
 The title Brave New World derives from Miranda's speech in William Shakespeare's The Tempest, Act V, Scene I: O wonder!How many goodly creatures are there here!How beauteous mankind is!
 O brave new world,That has such people in't.
 Shakespeare's use of the phrase is intended ironically, as the speaker is failing to recognise the evil nature of the island's visitors because of her innocence.
-Indeed, the next speaker replies to Miranda's innocent observation with the statement "They are new to thee..."Translations of the title often allude to similar expressions used in domestic works of literature: the French edition of the work is entitled Le Meilleur des mondes (The Best of All Worlds), an allusion to an expression used by the philosopher Gottfried Leibniz  and satirised in Candide, Ou l'Optimisme by Voltaire (1759).
+Indeed, the next speaker—Miranda's father Prospero—replies to her innocent observation with the statement "'Tis new to thee.
+"Translations of the title often allude to similar expressions used in domestic works of literature: the French edition of the work is entitled Le Meilleur des mondes (The Best of All Worlds), an allusion to an expression used by the philosopher Gottfried Leibniz  and satirised in Candide, Ou l'Optimisme by Voltaire (1759).
 The first Standard Chinese translation, done by novelist Lily Hsueh and Aaron Jen-wang Hsueh in 1974, is entitled "美麗新世界" (Pinyin: Měilì Xīn Shìjiè, literally "Beautiful New World").Huxley wrote Brave New World whilst living in Sanary-sur-Mer, France, in the four months from May to August 1931.
 By this time, Huxley had already established himself as a writer and social satirist.
 He was a contributor to Vanity Fair and Vogue magazines, and had published a collection of his poetry (The Burning Wheel, 1916) and four successful satirical novels: Crome Yellow (1921), Antic Hay (1923), Those Barren Leaves (1925), and Point Counter Point (1928).
@@ -22,7 +23,7 @@ He wrote in a letter to Mrs. Arthur Goldsmith, an American acquaintance, that he
 Unlike the most popular optimistic utopian novels of the time, Huxley sought to provide a frightening vision of the future.
 Huxley referred to Brave New World as a "negative utopia", somewhat influenced by Wells's own The Sleeper Awakes (dealing with subjects like corporate tyranny and behavioural conditioning) and the works of D. H. Lawrence.
 For his part Wells published, two years after Brave New World, his own Utopian Shape of Things to Come.
-Seeking to refute the argument of Huxley's Mustafa Mond - that moronic underclasses were a necessary "social gyroscope" and that a society composed solely of intelligent, assertive "Alphas" would inevitably disintegrate in internecine struggle - Wells depicted a stable egalitarian society emerging after several generations of a reforming elite having complete control of education throughout the world.
+Seeking to refute the argument of Huxley's Mustapha Mond—that moronic underclasses were a necessary "social gyroscope" and that a society composed solely of intelligent, assertive "Alphas" would inevitably disintegrate in internecine struggle—Wells depicted a stable egalitarian society emerging after several generations of a reforming elite having complete control of education throughout the world.
 In the future depicted in Wells' book, posterity remembers Huxley as "a reactionary writer".
 The scientific futurism in Brave New World is believed to be appropriated from Daedalus  by J.
 B. S. Haldane.
@@ -47,4 +48,3 @@ Despite spending his whole life in the reservation, John has never been accepted
 Linda has taught John to read, although from the only book in her possession—a scientific manual—and another book John found: the complete works of Shakespeare.
 Ostracised by the villagers, John is able to articulate his feelings only in terms of Shakespearean drama, quoting often from The Tempest, King Lear, Othello, Romeo and Juliet and Hamlet.
 Linda now wants to return to London, and John, too, wants to see this "brave new world".
-Bernard sees an opportunity to thwart plans to exile him, and gets permission to take Linda and John back.

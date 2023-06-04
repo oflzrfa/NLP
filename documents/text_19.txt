@@ -1,15 +1,16 @@
-The Industrial Revolution was the transition to new manufacturing processes in Great Britain, continental Europe, and the United States, that occurred during the period from around 1760 to about 1820–1840.
+The Industrial Revolution was a period of global transition of human economy towards more efficient and stable manufacturing processes that succeeded the Agricultural Revolution, starting from Great Britain, continental Europe, and the United States, that occurred during the period from around 1760 to about 1820–1840.
 This transition included going from hand production methods to machines; new chemical manufacturing and iron production processes; the increasing use of water power and steam power; the development of machine tools; and the rise of the mechanized factory system.
 Output greatly increased, and a result was an unprecedented rise in population and in the rate of population growth.
-The textile industry was the first to use modern production methods, : 40  and textiles became the dominant industry in terms of employment, value of output, and capital invested.
-The Industrial Revolution began in Great Britain, and many of the technological and architectural innovations were of British origin.
+The textile industry was the first to use modern production methods, : 40  and textiles became the dominant industry in terms of employment, value of output, and capital invested.On a structural level the Industrial Revolution asked society the so-called social question, demanding new ideas for managing large groups of individuals.
+Growing poverty on one hand and growing population and materialistic wealth on the other caused tensions between the very rich and the poorest people within society.
+These tensions were sometimes violently released  and led to philosophical ideas such as socialism, communism and anarchism.The Industrial Revolution began in Great Britain, and many of the technological and architectural innovations were of British origin.
 By the mid-18th century, Britain was the world's leading commercial nation,  controlling a global trading empire with colonies in North America and the Caribbean.
 Britain had major military and political hegemony on the Indian subcontinent; particularly with the proto-industrialised Mughal Bengal, through the activities of the East India Company.
 The development of trade and the rise of business were among the major causes of the Industrial Revolution.
 : 15 The Industrial Revolution marked a major turning point in history.
 Comparable only to humanity's adoption of agriculture with respect to material advancement,  the Industrial Revolution influenced in some way almost every aspect of daily life.
 In particular, average income and population began to exhibit unprecedented sustained growth.
-Some economists have said the most important effect of the Industrial Revolution was that the standard of living for the general population in the Western world began to increase consistently for the first time in history, although others have said that it did not begin to meaningfully improve until the late 19th and 20th centuries.
+Some economists have said the most important effect of the Industrial Revolution was that the standard of living for the general population in the Western world began to increase consistently for the first time in history, although others have said that it did not begin to improve meaningfully until the late 19th and 20th centuries.
 GDP per capita was broadly stable before the Industrial Revolution and the emergence of the modern capitalist economy,  while the Industrial Revolution began an era of per-capita economic growth in capitalist economies.
 Economic historians are in agreement that the onset of the Industrial Revolution is the most important event in human history since the domestication of animals and plants.
 The precise start and end of the Industrial Revolution is still debated among historians, as is the pace of economic and social changes.
@@ -20,7 +21,7 @@ An economic recession occurred from the late 1830s to the early 1840s when the a
 Innovations developed late in the period, such as the increasing adoption of locomotives, steamboats and steamships, and hot blast iron smelting.
 New technologies such as the electrical telegraph, widely introduced in the 1840s and 1850s, were not powerful enough to drive high rates of growth.
 Rapid economic growth began to occur after 1870, springing from a new group of innovations in what has been called the Second Industrial Revolution.
-These innovations included new steel making processes, mass production, assembly lines, electrical grid systems, the large-scale manufacture of machine tools, and the use of increasingly advanced machinery in steam-powered factories.
+These innovations included new steel-making processes, mass production, assembly lines, electrical grid systems, the large-scale manufacture of machine tools, and the use of increasingly advanced machinery in steam-powered factories.
 The earliest recorded use of the term "Industrial Revolution" was in July 1799 by French envoy Louis-Guillaume Otto, announcing that France had entered the race to industrialise.
 In his 1976 book Keywords: A Vocabulary of Culture and Society, Raymond Williams states in the entry for "Industry": "The idea of a new social order based on major industrial change was clear in Southey and Owen, between 1811 and 1818, and was implicit as early as Blake in the early 1790s and Wordsworth at the turn of the [19th] century."
 The term Industrial Revolution applied to technological change was becoming more common by the late 1830s, as in Jérôme-Adolphe Blanqui's description in 1837 of la révolution industrielle.
@@ -28,10 +29,9 @@ Friedrich Engels in The Condition of the Working Class in England in 1844 spoke 
 Although Engels wrote his book in the 1840s, it was not translated into English until the late 19th century, and his expression did not enter everyday language until then.
 Credit for popularising the term may be given to Arnold Toynbee, whose 1881 lectures gave a detailed account of the term.
 Economic historians and authors such as Mendels, Pomeranz, and Kridte argue that proto-industrialization in parts of Europe, the Muslim world, Mughal India, and China created the social and economic conditions that led to the Industrial Revolution, thus causing the Great Divergence.
-* Elvin, Mark (1973), The Pattern of the Chinese Past, Stanford University Press, pp.
-7, 113–199, ISBN 978-0-8047-0876-0  Some historians, such as John Clapham and Nicholas Crafts, have argued that the economic and social changes occurred gradually and that the term revolution is a misnomer.
+Some historians, such as John Clapham and Nicholas Crafts, have argued that the economic and social changes occurred gradually and that the term revolution is a misnomer.
 This is still a subject of debate among some historians.
-Six factors facilitated industrialization: high levels of agricultural productivity to provide excess manpower and food; a pool of managerial and entrepreneurial skills;  available ports, rivers, canals, and roads to cheaply move raw materials and outputs; natural resources such as coal, iron, and waterfalls; political stability and a legal system that supported business; and financial capital available to invest.
+Six factors facilitated industrialization: high levels of agricultural productivity (see British Agricultural Revolution) to provide excess manpower and food; a pool of managerial and entrepreneurial skills;  available ports, rivers, canals, and roads to cheaply move raw materials and outputs; natural resources such as coal, iron, and waterfalls; political stability and a legal system that supported business; and financial capital available to invest.
 Once industrialization began in Great Britain, new factors can be added: the eagerness of British entrepreneurs to export industrial expertise and the willingness to import the process.
 Britain met the criteria and industrialized starting in the 18th century, and then it exported the process to western Europe (especially Belgium, France, and the German states) in the early 19th century.
 The United States copied the British model in the early 19th century, and Japan copied the Western European models in the late 19th century.

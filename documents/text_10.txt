@@ -1,20 +1,19 @@
-Space Exploration Technologies Corp. (SpaceX) is an American spacecraft manufacturer, launcher, and a satellite communications corporation headquartered in Hawthorne, California.
-It was founded in 2002 by Elon Musk with the stated goal of reducing space transportation costs to enable the colonization of Mars.
-The company manufactures the Falcon 9, Falcon Heavy, and Starship launch vehicles, several rocket engines, Cargo Dragon and Crew Dragon spacecraft, and Starlink communications satellites.SpaceX is developing a satellite internet constellation named Starlink to provide commercial internet service.
-In January 2020, the Starlink constellation became the largest satellite constellation ever launched, and as of December 2022 comprises over 3,300 small satellites in orbit.
+The Space Exploration Technologies Corporation, commonly referred to as SpaceX  is an American spacecraft manufacturer, launcher, and satellite communications company headquartered in Hawthorne, California.
+It was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to colonization of Mars.
+The company manufactures the Falcon 9, Falcon Heavy, and Starship heavy-lift launch vehicles as well as rocket engines, the Cargo Dragon and Crew Dragon spacecraft; and the Starlink mega-constellation satellite.SpaceX offers commercial satellite-based internet service via its constellation of Starlink satellites, which became the largest-ever satellite constellation in January 2020 and as of December 2022 comprised more than 3,300 small satellites in orbit.
 The company is also developing Starship, a privately funded, fully reusable, super heavy-lift launch system for interplanetary and orbital spaceflight.
-It is intended to become SpaceX's primary orbital vehicle once operational, supplanting the existing Falcon 9, Falcon Heavy, and Dragon fleet.
-It will have the highest payload capacity of any orbital rocket ever built on its debut, which is scheduled for early 2023 pending a launch license.
-SpaceX has made several achievements in space exploration.
-These include making the first privately developed liquid-propellant rocket that reached orbit, the first private company to launch, orbit, and recover a spacecraft, the first private company to send a spacecraft to the International Space Station, the first to achieve vertical propulsive landing of an orbital rocket booster, the first to reuse such a booster, and the first private company to send astronauts to orbit and to the International Space Station.
-In addition, SpaceX's Falcon 9 rockets have been flown and landed over one hundred times.In early 2001, Elon Musk donated US$100,000 to the Mars Society and joined its board of directors for a short time.
+On its failed first flight in April 2023, it became the largest and most powerful rocket ever flown.
+Starship is intended to become SpaceX's primary orbital vehicle, supplanting the existing Falcon 9, Falcon Heavy, and Dragon fleet.SpaceX is the first private company to develop a liquid-propellant rocket that has reached orbit; to launch, orbit, and recover a spacecraft; to send a spacecraft to the International Space Station; and to send astronauts to orbit and to the International Space Station.
+It is also the first organization of any type to achieve a vertical propulsive landing of an orbital rocket booster and the first to reuse such a booster.
+SpaceX's Falcon 9 rockets have landed and reflown more than 150 times.
+In early 2001, Elon Musk donated US$100,000 to the Mars Society and joined its board of directors for a short time.
 : 30–31  He gave a plenary talk at their fourth convention where he announced Mars Oasis, a project to land a greenhouse and grow plants on Mars.
 Musk initially attempted to acquire a Dnepr ICBM for the project through Russian contacts from Jim Cantrell.
 Two months later, however, the United States withdrew from the ABM Treaty and created the Missile Defense Agency, increasing tensions with Russia and generating new strategic interest for rapid and re-usable launch capability similar to the DC-X.
 When Musk returned to Moscow, Russia, with Michael Griffin (who led the CIA's venture capital arm In-Q-Tel ), they found the Russians increasingly unreceptive.
 On the flight home Musk announced he could start a company to build the affordable rockets they needed instead.
 By applying vertical integration,  using cheap commercial off-the-shelf components when possible,  and adopting the modular approach of modern software engineering, Musk believed SpaceX could significantly cut launch price.
-Griffin would later be appointed NASA administrator,  conceive the COTS program, and approve SpaceX for the $278 million award in 2006 before SpaceX had flown any rocket.
+Griffin would later be appointed NASA administrator,  conceive the COTS program, and approve SpaceX for the $278 million award in 2006 before SpaceX had flown any rockets.
 In early 2002, Musk started to look for staff for his company, soon to be named SpaceX.
 Musk approached rocket engineer Tom Mueller (later SpaceX's CTO of propulsion) and invited him to become his business partner.
 Mueller agreed to work for Musk, and thus SpaceX was born.
@@ -24,7 +23,7 @@ By November 2005, the company had 160 employees.
 Musk personally interviewed and approved all of SpaceX's early employees.
 Musk has stated that one of his goals with SpaceX is to decrease the cost and improve the reliability of access to space, ultimately by a factor of ten.
 SpaceX developed its first orbital launch vehicle, the Falcon 1, with internal funding.
-The Falcon 1 was an expendable two-stage-to-orbit small-lift launch vehicle.The total development cost of Falcon 1 was approximately US$90 million  to US$100 million.
+The Falcon 1 was an expendable two-stage-to-orbit small-lift launch vehicle.The total development cost of Falcon 1 was approximately $90 million  to $100 million.
 The Falcon name was adopted from the DARPA Falcon Project, part of the Prompt Global Strike program of the US military.
 In 2005, SpaceX announced plans to pursue a human-rated commercial space program through the end of the decade, a program that would later become the Dragon spacecraft.
 In 2006, the company was selected by NASA and awarded $396 million to provide crew and cargo resupply demonstration contracts to the ISS under the COTS program.
@@ -42,9 +41,10 @@ SpaceX originally intended to follow its light Falcon 1 launch vehicle with an i
 The company instead decided in 2005 to proceed with the development of the Falcon 9, a reusable heavier lift vehicle.
 Development of the Falcon 9 was accelerated by NASA, which committed to purchasing several commercial flights if specific capabilities were demonstrated.
 This started with seed money from the Commercial Orbital Transportation Services (COTS) program in 2006.
-The overall contract award was US$278 million to provide development funding for the Dragon spacecraft, Falcon 9, and demonstration launches of Falcon 9 with Dragon.
+The overall contract award was $278 million to provide development funding for the Dragon spacecraft, Falcon 9, and demonstration launches of Falcon 9 with Dragon.
 As part of this contract, the Falcon 9 launched for the first time in June 2010 with the Dragon Spacecraft Qualification Unit, using a mockup of the Dragon spacecraft.The first operational Dragon spacecraft was launched in December 2010 aboard COTS Demo Flight 1, the Falcon 9's second flight, and safely returned to Earth after two orbits, completing all its mission objectives.
 By December 2010, the SpaceX production line was manufacturing one Falcon 9 and Dragon every three months.
-In April 2011, as part of its second-round Commercial Crew Development (CCDev) program, NASA issued a US$75 million contract for SpaceX to develop an integrated launch escape system for Dragon in preparation for human-rating it as a crew transport vehicle to the ISS.
+In April 2011, as part of its second-round Commercial Crew Development (CCDev) program, NASA issued a $75 million contract for SpaceX to develop an integrated launch escape system for Dragon in preparation for human-rating it as a crew transport vehicle to the ISS.
 NASA awarded SpaceX a fixed-price Space Act Agreement (SAA) to produce a detailed design of the crew transportation system in August 2012.
-In early 2012, approximately two-thirds of SpaceX stock was owned by Musk  and his 70 million shares were then estimated to be worth US$875 million on private markets,  valuing SpaceX at US$1.3 billion.
+In early 2012, approximately two-thirds of SpaceX stock was owned by Musk  and his seventy million shares were then estimated to be worth $875 million on private markets,  valuing SpaceX at $1.3 billion.
+In May 2012, with the Dragon C2+ launch Dragon became the first commercial spacecraft to deliver cargo to the International Space Station.
