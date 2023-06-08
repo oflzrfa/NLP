@@ -1,0 +1,109 @@
+Deepfaked: ‘They put my face on a porn video’
+
+Imagine if your face had been digitally edited into a porn video without your consent and then shared on the internet. One woman reveals the horror of it happening to her.
+
+Scrolling through her Twitter feed one evening, Kate Isaacs stumbled across a disturbing video among her notifications.
+
+"This panic just washed over me," Kate says, speaking publicly for the first time about what happened. "Someone had taken my face, put it on to a porn video, and made it look like it was me."
+
+Kate had been deepfaked. Someone had used artificial intelligence to digitally manipulate her face onto someone else's - in this case a porn actress.
+
+The deepfake video on Twitter - with Kate, who campaigns against non-consensual porn, tagged - had been made using footage from TV interviews she had given while campaigning. It appeared to show her having sex.
+
+"My heart sank. I couldn't think clearly," she says. "I remember just feeling like this video was going to go everywhere - it was horrendous."
+
+In the past, high-profile celebrities and politicians were the most common targets of deepfakes - the videos weren't always porn, some were made for comedic value. But over the years that's changed - according to cybersecurity company Deeptrace, 96% of all deepfakes are non-consensual porn.
+
+Like revenge porn, deepfake pornography is what's known as image-based sexual abuse - an umbrella term which encompasses the taking, making and/or sharing of intimate images without consent.
+
+It is already an offence in Scotland to share images or videos that show another person in an intimate situation without their consent. But in other parts of the UK, it's only an offence if it can be proved that such actions were intended to cause the victim distress - a loophole which means video creators often don't face legal consequences.
+
+Government plans for a long-awaited UK-wide Online Safety Bill have been under endless revision and repeatedly shelved. The new laws would give the regulator, Ofcom, the power to take action against any website deemed to be enabling harm to UK users, no matter where they are based in the world. Earlier this month, however, Culture Secretary Michelle Donelan said she and her team were now "working flat out" to ensure the bill was delivered.
+
+Kate, 30, founded the #NotYourPorn campaign in 2019. A year later, her activism contributed to the adult entertainment website, Pornhub, having to take down all videos uploaded to the site by unverified users - the majority of its content.
+
+Kate therefore assumed that whoever was behind the deepfake of her had been annoyed by her campaigning. She had "taken away their porn".
+
+But she had no idea who that person was, or who might have seen the video. And while she could see that her face had been overlaid onto footage of a porn actor, the video was convincing enough that she worried others might not spot the deception.
+
+"It was a violation - my identity was used in a way I didn't consent to."
+
+Underneath the video, people began leaving streams of abusive comments, saying they were going to follow Kate home, rape her, film the attack, and publish the footage on the internet.
+
+"You start thinking about your family," she says, holding back tears. "How would they feel if they saw this content?"
+
+The threat intensified when both Kate's home and work addresses were published below the video - a practice known as doxing.
+
+"I became completely paranoid - 'Who knows my address? Is it someone I know that's done this?'
+
+"I was thinking, 'I'm really in trouble here, this isn't just some people on the internet mouthing off, there's actually a real danger.'"
+
+From her experience supporting others in similar situations, Kate knew exactly what to do if someone becomes a victim - but in that moment she froze.
+
+"I didn't follow any of my own advice," she says. "Kate the campaigner was very strong and didn't show any vulnerability - and then there was me, Kate, who was really scared."
+
+A colleague reported the video, vicious comments and doxing to Twitter, and they were all taken down from the platform. But once any deepfake has been published and shared online it's difficult to remove it from circulation entirely.
+
+"I just wanted that video off the internet," Kate says, "but there was nothing I could do about it."
+
+There's a marketplace for deepfakes in online forums. People post requests for videos to be made of their wives, neighbours and co-workers and - unfathomable as it might seem - even their mothers, daughters and cousins.
+
+Content creators respond with step-by-step instructions - what source material they'll need, advice on which filming angles work best, and price tags for the work.
+
+A deepfake content creator based in south-east England, Gorkem, spoke to the BBC anonymously. He began creating celebrity deepfakes for his own gratification - he says they allow people to "realise their fantasies in ways that really wasn't [sic] possible before".
+
+Later, Gorkem moved on to deepfaking women he was attracted to, including colleagues at his day job who he barely knew.
+
+"One was married, the other in a relationship," he says. "Walking into work after having deepfaked these women - it did feel odd, but I just controlled my nerves. I can act like nothing's wrong - no-one would suspect."
+
+Realising he could make money from what he refers to as his "hobby", Gorkem started taking commissions for custom deepfakes. Gathering footage from women's social media profiles provides him with plenty of source material. He says he even recently deepfaked a woman using a Zoom call recording.
+
+"With a good amount of video, looking straight at the camera, that's good data for me. Then the algorithm can just extrapolate from that and make a good reconstruction of the face on the destination video."
+
+He accepts "some women" could be psychologically harmed by being deepfaked, but seems indifferent about the potential impact of the way he is objectifying them.
+
+"They can just say, 'It's not me - this has been faked.' They should just recognise that and get on with their day.
+
+"From a moral standpoint I don't think there's anything that would stop me," he says. "If I'm going to make money from a commission I would do it, it's a no brainer."
+
+The standard of deepfakes can vary wildly, and depends both on the expertise of the person who made the video and the sophistication of the technology used.
+
+But the man behind the largest deepfake porn website admits it's no longer easy to know for certain whether you're looking at manipulated images or not. His site attracts about 13 million visitors a month and hosts roughly 20,000 videos at any one time. He is based in the US and rarely speaks to the media - but he agreed to talk to the BBC anonymously.
+
+Deepfaking "ordinary" women is a red line for him, he says, but in his view, hosting pornographic deepfake videos of celebrities, social media influencers and politicians, is justifiable.
+
+"They're accustomed to negative media, their content is available in the mainstream. They're different to normal citizens," he says.
+
+"The way I see it, they are able to deal with it in a different way - they can just brush it off. I don't really feel consent is required - it's a fantasy, it's not real."
+
+Does he think what he's doing is wrong? Part of him is "in denial about the impact on women", he admits - and notably, he reveals that his spouse doesn't know what he does for a living.
+
+"I haven't told my wife. I'm afraid of how it might affect her."
+
+Until relatively recently, deepfake software wasn't easily available, and the average person wouldn't have had the skills to make them. But now, anyone over the age of 12 can legally download dozens of apps and make convincing deepfakes in a few clicks.
+
+For Kate that's worrying and "really scary".
+
+"It's not the dark web, it's in the app stores - right in front of our faces."
+
+She also fears the hoped-for Online Safety Bill won't keep up with technology. Three years ago, when the bill was first drafted, deepfake creation was seen as a professional skill in which someone would need to be trained - not merely download an app.
+
+"We're years down the line and the contents of [the bill] are out of date - there's so much missing," she says.
+
+But for creator Gorkem, criminalising deepfaking would change things.
+
+"If I could be traced online I would stop there and probably find another hobby," he says.
+
+Being deepfaked and doxed had an impact on Kate's health and her ability to trust other people. She believes those behind the attacks weren't only trying to intimidate and humiliate her, but also to silence her. For a time, she stepped back from campaigning, questioning whether she could carry on speaking out about misogyny.
+
+But now, she is all the more fired-up. She realised she cared too much to walk away.
+
+"I'm not letting them win."
+
+Deepfakes can be used to control women, and tech firms - including those who make apps that enable face-swapping - should be encouraged to put safeguards in place, she says.
+
+"Any app should be able to detect sexual content."
+
+"If companies have not put money, resources and time into ensuring their app isn't being used as a place to create sexual abuse content, they are being deliberately irresponsible. They are culpable."
+
+Neither Gorkem, nor the man behind the largest deepfake website, are understood to have been involved in deepfaking Kate Isaacs.
