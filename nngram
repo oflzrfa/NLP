@@ -34,7 +34,6 @@ for file_name in selected_files:
     generated_sentences = []
     minimum_sentences = 50
     maximum_sentences = 100
-    generated_sentences = []
     num_sentences = random.randint(minimum_sentences, maximum_sentences)
     for _ in range(num_sentences):
         generated_text = ''
