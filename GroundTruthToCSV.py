@@ -7,21 +7,16 @@ folder_paths = [
     'gptID'
 ]  # Replace with the actual paths to your folders
 
-# Create a list to store file information
 file_info = []
 
-# Iterate over the folders
 for folder_path in folder_paths:
     # Iterate over files in the folder
     for filename in os.listdir(folder_path):
         file_path = os.path.join(folder_path, filename)
 
-        # Check if the file is a text document
         if filename.endswith('.txt'):
-            # Determine the truth value based on the folder
             truth_value = '1' if folder_path == 'HumanGenerated_NewsArticlesID' else '0'
 
-            # Add file information to the list
             file_info.append({
                 'GroupID': 'groupName',
                 'FileID': filename,
