@@ -19,8 +19,8 @@ latent_dim = 32
 hidden_units = 64
 
 # Load all files from the "documents" folder
-folder_path = "./documents"
-file_names = ["text_{}.txt".format(i+1) for i in range(60)]
+folder_path = "./HumanGenerated_NewsArticles"
+file_names = ["a{}.txt".format(i+1) for i in range(60)]
 texts = []
 for file_name in file_names:
     with open(os.path.join(folder_path, file_name), encoding="utf-8") as file:
