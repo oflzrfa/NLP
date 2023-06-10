@@ -5,7 +5,8 @@ import string
 folder_paths = [
     'HumanGenerated_NewsArticlesID',
     'gptID',
-    'ngram_ArticlesID'
+    'ngram_ArticlesID',
+    'MarcovChainID'
 ]  # Replace with the actual paths to your folders
 
 # Function to generate a unique 4-digit number

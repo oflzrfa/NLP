@@ -1,0 +1,74 @@
+ULA test-fires first Vulcan rocket at Cape Canaveral - Spaceflight Now
+
+United Launch Alliance's first Vulcan Centaur rocket completed a critical test-firing of its Blue Origin-built BE-4 main engines Wednesday night, clearing one of two remaining technical hurdles before the launcher is cleared for its inaugural flight later this year.
+
+The Vulcan rocket's two BE-4 engines ignited at 9:05 p.m. EDT Wednesday (0105 UTC Thursday) and burned for about six seconds, generating nearly a million pounds of thrust as hold-down restraints kept the launcher firmly in the starting blocks at pad 41.
+
+This is a huge milestone, said Mark Peller, ULA's vice president for the Vulcan rocket program. This is as close as you can come to launching a rocket without actually launching the rocket, so a complete integrated test of all the airborne elements, the ground systems, all coming together, putting it through everything that we would on a normal day of launch, up to and including actually starting the main engine, everything short of releasing the rocket.
+
+Peller called the Flight Readiness Firing our last major milestone on the path to launch of the first Vulcan Centaur rocket.
+
+ULA's launch team loaded methane, liquid hydrogen, and liquid oxygen propellants into the Vulcan first stage and its Centaur upper stage Wednesday afternoon, then the countdown clock paused for several hours to allow engineers to evaluate whether lightning strike near the launch pad affected any critical systems.
+
+Following a final readiness poll of the launch team, the countdown resumed from a built-in hold at T-minus 7 minutes and the Vulcan Centaur rocket switched to internal power and the propellant tanks ramped up to flight pressure before valves opened to allow methane and liquid oxygen to flow into the BE-4 engine thrust chambers.
+
+The startup sequence for the twin engines began at T-minus 5 seconds. The engines throttled up to about 60% power for two seconds, then the rocket's flight computer commanded the BE-4s to throttle down before shutting off the engines. The test-firing sent a plume of exhaust out of the east-facing flame trench at pad 41.
+
+Nominal run! tweeted Tory Bruno, ULA's chief executive.
+
+The Vulcan rocket's two BE-4 engines were built by Blue Origin, founded by billionaire Jeff Bezos. Blue Origin plans to use a cluster of seven BE-4 engines on its own New Glenn rocket, still in an earlier stage of development.
+
+Nothing sweeter in rocketry than the word nominal, Bezos tweeted Wednesday night. Congrats to you, Tory, and the whole team!
+This video still shows the Vulcan rocket's two BE-4 engines during Wednesday night's Flight Readiness Firing. Credit: United Launch Alliance
+
+ULA technicians rolled the Vulcan Centaur rocket from its vertical hangar to pad 41 Tuesday at Cape Canaveral Space Force Station in preparation for the test-firing.
+
+The Flight Readiness Firing was the culmination of a series of tests and countdown rehearsals at Cape Canaveral to prepare for the first Vulcan test flight. Most recently, ULA's launch team loaded methane, liquid hydrogen, and liquid oxygen propellants into the Vulcan booster and its Centaur upper stage during a May 12 tanking test.
+
+ULA moved the Vulcan Centaur rocket back to the Vertical Integration Facility after the May 12 tanking test to make adjustments to the vehicle. The changes included adjusting a setting with ground hydraulic pressure, changing the topping rate for liquid oxygen, and changing the flow of purge and chill gas to the BE-4 engine igniters, according to Tory Bruno, ULA's chief executive officer.
+
+With those changes complete, ground teams planned to perform the Flight Readiness Firing on May 25, but ULA postponed the test-firing after discovering a problem with the BE-4 engine ignition system. That prompted a return of the rocket to the hangar for troubleshooting before ULA rolled the Vulcan launcher back to pad 41 Tuesday.
+
+ULA says it installed additional instrumentation on the rocket to monitor the performance of the engines during the Flight Readiness Firing. Engineers will spend the next several weeks analyzing data from the test-firing to make sure everything worked as designed.
+
+But a launch schedule for the first Vulcan Centaur flight remains unclear.
+
+ULA said it is more than 98% complete with the Vulcan rocket's qualification program, with the unfinished work associated with final ground testing of the Vulcan rocket's Centaur upper stage. A hydrogen explosion in March cut short a structural test of the Vulcan's Centaur upper stage at NASA's Marshall Space Flight Center in Huntsville, Alabama.
+
+The blast damaged the test stand and a Centaur upper stage test article. The Vulcan rocket uses a larger, upgraded model of the Centaur upper stage currently flying on ULA's Atlas 5 rocket
+
+If engineers determine they don't need to make any changes to the Centaur upper stage on the first Vulcan rocket, the test flight could take off this summer. In remarks last month, Bruno said the mission could delay until later this year if corrective actions are required on the Centaur.
+
+Pending the data review and the investigation results, we will develop a plan for launch, ULA said in a statement Wednesday night. Testing is an integral part of our launch vehicle development program, and we will fly when we believe it is safe to launch.
+ULA stacked the first stage for the first Vulcan rocket test flight onto a mobile launch platform Jan. 25 inside the Vertical Integration Facility at Cape Canaveral Space Force Station. Credit: United Launch Alliance
+
+ULA is a 50-50 joint venture between Lockheed Martin and Boeing, which merged their Atlas and Delta rocket programs in 2006. The Vulcan rocket will fly in several configurations, with varying numbers of strap-on solid rocket boosters and different payload fairing sizes available on each flight, depending on mission requirements.
+
+The Vulcan rocket for the program's first test flight sports a colorful paint job with a bright red flame emblazoned on the side of the 17.7-foot-side (5.4-meter) first stage. For the tanking tests and the Flight Readiness Firing, the Vulcan rocket is not fitted with any solid rocket boosters or a payload fairing. In that configuration, the vehicle stands about 166 feet (50.7 meters) tall.
+
+With the test-firing complete, ULA planned to drain the rocket's propellant tanks and return the Vulcan Centaur to its hangar for inspections. Technicians may need to adjust or replace thermal blankets around the engines that could have been singed by the test-firing. ULA will also swap out single-use igniters on the BE-4 engines before moving forward with final launch preparations.
+
+The Vulcan rocket's inaugural flight will be the first first launch to use the new methane-fueled BE-4 engines from Blue Origin. At full throttle, each BE-4 engine can generate about 550,000 pounds of thrust. Two of them will power each Vulcan core stage, with zero, two, four, or six solid rocket boosters to add thrust in the first couple of minutes of flight.
+
+Ground teams will install two Northrop Grumman-built solid-fueled boosters and the payload shroud supplied by Beyond Gravity, formerly known as Ruag Space.
+
+The Vulcan rocket's Centaur upper stage, called the Centaur 5, is an upgrade to the upper stages currently flying on ULA's Atlas 5 rocket. The Centaur 5 has a wider diameter to accommodate larger cryogenic hydrogen and oxygen propellant tanks, along with two Aerojet Rocketdyne RL10 engines. The Centaur flying on the Atlas 5 rocket typically flies with a single engine.
+ULA's first Vulcan Centaur rocket on its launch pad last month at Cape Canaveral Space Force Station. Credit: United Launch Alliance
+
+Once all of the Vulcan rocket configurations are operational, the new rocket will fully replace and grow the lift capability currently offered by all of ULA's rockets. The largest Vulcan rocket variant, with a single core stage and upgraded upper stage engines that will start flying in the next few years, will have more payload lift capability than ULA's Delta 4-Heavy, which has three liquid-fueled first stage boosters connected together.
+
+The Vulcan Centaur with upgraded upper stage engines will be capable of lofting a payload up to 60,000 pounds (27.2 metric tons) to low Earth orbit.
+
+Eventually, ULA plans to recover the reuse BE-4 engines from Vulcan launches, but not the entire first stage.
+
+ULA unveiled the Vulcan rocket in 2015, then targeting a first launch of the new vehicle in 2019. The company selected Blue Origin's BE-4 engine for the first stage propulsion system in 2018. At that time, ULA aimed to launch the first Vulcan test flight in 2020.
+
+But delays, primarily caused by issues discovered in BE-4 engine production and testing, forced the first Vulcan test flight to slip several years. Bruno said earlier this month that Blue Origin and ULA completed final qualification testing of the BE-4 engine ahead of the first Vulcan launch, clearing a hurdle that was still threatening to delay Vulcan's debut earlier this year.
+
+On its first flight, the Vulcan rocket will launch a commercial moon lander developed by Astrobotic, which will attempt to deliver a batch of NASA experiments and tech demo payloads to the lunar surface. The Astrobotic lander, named Peregrine, is part of NASA's Commercial Lunar Payload Services Program, which buys rides to the moon for agency payloads on commercially-owned spacecraft.
+
+Two prototype satellites for Amazon's Kuiper broadband network will also be aboard the first Vulcan launch.
+
+ULA's Vulcan rocket has been selected by the U.S. Space Force to launch the majority of the military's large national security satellites for the next five years. The military requires two certification flights of the Vulcan rocket before it is approved for national security launch missions.
+
+A second Vulcan test flight is slated for early 2024 with Sierra Space's Dream Chaser spaceplane, a new resupply craft for the International Space Station. That will be followed by the first Vulcan launch with a military national security payload.

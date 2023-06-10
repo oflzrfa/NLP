@@ -4,7 +4,8 @@ import csv
 folder_paths = [
     'HumanGenerated_NewsArticlesID',
     'ngram_ArticlesID',
-    'gptID'
+    'gptID',
+    'MarcovChainID'
 ]  # Replace with the actual paths to your folders
 
 file_info = []
@@ -18,7 +19,7 @@ for folder_path in folder_paths:
             truth_value = '1' if folder_path == 'HumanGenerated_NewsArticlesID' else '0'
 
             file_info.append({
-                'GroupID': 'groupName',
+                'GroupID': 'Myrion',
                 'FileID': filename,
                 'Class': truth_value
             })
