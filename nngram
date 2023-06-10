@@ -4,14 +4,14 @@ import datetime
 import shutil
 import random
 
-documents_folder = 'C:/Users/refij/OneDrive/Dokumenti/GitHub/NLP/documents/'
+documents_folder = 'C:/Users/refij/OneDrive/Dokumenti/GitHub/NLP/Articles/'
 
 text_file_list = os.listdir(documents_folder)
 text_files = [file_name for file_name in text_file_list if file_name.endswith('.txt')]
 selected_files = random.sample(text_files, 20)
 
 n = 5
-output_folder = 'ngram_text_files'
+output_folder = 'ngram_Articles'
 os.makedirs(output_folder, exist_ok=True)
 
 for file_name in selected_files:
@@ -35,7 +35,7 @@ for file_name in selected_files:
     for _ in range(50):
         generated_text = ''
         start = ' '.join(random.choice(ngrams)[:-1])
-        for _ in range(13):
+        for _ in range(15):
             if start not in freq_dict:
                 break
             next_word = random.choice(freq_dict[start])
