@@ -32,7 +32,11 @@ for file_name in selected_files:
         freq_dict[key].append(gram[-1])
 
     generated_sentences = []
-    for _ in range(50):
+    minimum_sentences = 50
+    maximum_sentences = 100
+    generated_sentences = []
+    num_sentences = random.randint(minimum_sentences, maximum_sentences)
+    for _ in range(num_sentences):
         generated_text = ''
         start = ' '.join(random.choice(ngrams)[:-1])
         for _ in range(15):
