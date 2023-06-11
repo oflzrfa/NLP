@@ -10,7 +10,7 @@ text_file_list = os.listdir(documents_folder)
 text_files = [file_name for file_name in text_file_list if file_name.endswith('.txt')]
 selected_files = random.sample(text_files, 20)
 
-n = 5
+n =3
 output_folder = 'ngram_Articles'
 os.makedirs(output_folder, exist_ok=True)
 
