@@ -89,7 +89,7 @@ def generate_news_articles(num_articles, corpus):
 
     for i in range(num_articles):
         article = []
-        for _ in range(random.randint(50, 100)):
+        for _ in range(random.randint(25,30)):
             sentence = markov_chain.generate_sentence()
             article.append(sentence)
 
